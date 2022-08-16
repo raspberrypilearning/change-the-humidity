@@ -1,11 +1,9 @@
-title: default-project-template
+title: Change the humidity reading on a SenseHAT
 hero_image: images/banner.png
-description: default-project-template description
+description: Change the humidity reading on a SenseHAT
 version: 4
 listed: false
 copyedit: false
 last_tested: "2022-05-19"
 steps:
-  - title: Introduction
-  - title: Step title
-  - title: What next?
+  - title: Change the humidity reading on a SenseHAT
