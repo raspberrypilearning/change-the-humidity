@@ -1,0 +1,3 @@
+If you aren't working on the emulator, one way to quickly increase the humidity of the environment around your SenseHAT is to cup it in your hands (or put it in a plastic bag) and breathe gently onto it. The moisture present in your breath should be enough to detect a change!
+
+When writing your code, find out the **ambient reading** of the sensor you're using - that way you can test easily without having to make huge changes in the environment.
